@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title('this is title')
-st.header('this is header')
-st.subheader('this is subheader')
+st.title('title')
+st.header('header')
+st.subheader('subheader')
 
 
  
